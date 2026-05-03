@@ -1,0 +1,14 @@
+{
+  "rent": [
+    {
+      "_id": "mopcei217u1qg",
+      "amount": 3000,
+      "date": "2026-05-03",
+      "description": "Rent",
+      "device_id": "web",
+      "timestamp": "2026-05-03T05:41:12.553Z"
+    }
+  ],
+  "milk": [],
+  "electric": []
+}
